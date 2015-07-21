@@ -3,5 +3,7 @@
 .classpath
 .project
 .settings/*
+/src/main/webapp/WEB-INF/classes
 /src/main/webapp/WEB-INF/classes/*
+/webapp/WEB-INF/classes
 /webapp/WEB-INF/classes/*
